@@ -33,8 +33,11 @@ or, if you run as root:
     sudo pip install pygments
 
 Now pygments version 1.6 is NOT for pjson, so install command should be:
+
     pip install Pygments==1.5
+    
 or, as root:
+
     sudo pip install Pygments==1.5
     
 And copy and paste this:
